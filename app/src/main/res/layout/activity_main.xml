@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_margin="20dp"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <TextView
+
+        android:layout_width="match_parent"
+        android:layout_height="103dp"
+        android:background="@color/white"
+        android:gravity="center"
+        android:text="Flag of the countries of power of the world"
+        android:textColor="@color/black"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+    <LinearLayout
+        android:layout_marginTop="5dp"
+        android:layout_width="wrap_content"
+        android:layout_height="101dp">
+
+        >
+
+        <TextView
+            android:layout_width="110dp"
+            android:layout_height="110dp"
+            android:background="@color/green"
+            android:gravity="center"
+            android:text="@string/american"
+            android:textColor="@color/black"
+            android:textStyle="bold" />
+
+        <ImageView
+
+            android:layout_width="267dp"
+            android:layout_height="110dp"
+            android:layout_marginBottom="22sp"
+            android:scaleType="fitXY"
+            android:src="@mipmap/american" />
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_marginTop="5dp"
+        android:layout_width="wrap_content"
+        android:layout_height="101dp">
+
+        >
+
+        <TextView
+            android:layout_width="110dp"
+            android:layout_height="110dp"
+            android:background="@color/green"
+            android:gravity="center"
+            android:text="@string/russia"
+            android:textColor="@color/black"
+            android:textStyle="bold" />
+
+        <ImageView
+
+            android:layout_width="267dp"
+            android:layout_height="110dp"
+            android:layout_marginBottom="22sp"
+            android:scaleType="fitXY"
+            android:src="@mipmap/russia" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_marginTop="5dp"
+        android:layout_width="wrap_content"
+        android:layout_height="101dp">
+
+        >
+
+        <TextView
+            android:layout_width="110dp"
+            android:layout_height="110dp"
+            android:background="@color/green"
+            android:gravity="center"
+            android:text="@string/china"
+            android:textColor="@color/black"
+            android:textStyle="bold" />
+
+        <ImageView
+
+            android:layout_width="267dp"
+            android:layout_height="110dp"
+            android:layout_marginBottom="22sp"
+            android:scaleType="fitXY"
+            android:src="@mipmap/china" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_marginTop="5dp"
+        android:layout_width="wrap_content"
+        android:layout_height="101dp">
+
+        >
+
+        <TextView
+            android:layout_width="110dp"
+            android:layout_height="110dp"
+            android:background="@color/green"
+            android:gravity="center"
+            android:text="@string/germany"
+            android:textColor="@color/black"
+            android:textStyle="bold" />
+
+        <ImageView
+
+            android:layout_width="267dp"
+            android:layout_height="110dp"
+            android:layout_marginBottom="22sp"
+            android:scaleType="fitXY"
+            android:src="@mipmap/germany" />
+    </LinearLayout>
+
+</LinearLayout>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

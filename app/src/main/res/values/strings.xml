@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">salam</string>
+    <string name="american">American</string>
+    <string name="russia">Russia</string>
+    <string name="germany">Germany</string>
+    <string name="china">China</string>
+</resources>
